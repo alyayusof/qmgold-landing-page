@@ -17,7 +17,14 @@ To install this project, you will need to have Jekyll installed on your machine.
 bundle exec jekyll serve
 ```
 
-This will build the site and serve it locally at `http://localhost:4000`.
+
+Add `--livereload` to make the browser automatically refresh on save.
+
+```
+bundle exec jekyll serve --livereload
+```
+
+This will build the site and serve it locally at `http://localhost:4000/qmgold-landing-page`.
 
 ## Usage
 
