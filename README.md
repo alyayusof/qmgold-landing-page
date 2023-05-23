@@ -24,7 +24,7 @@ Add `--livereload` to make the browser automatically refresh on save.
 bundle exec jekyll serve --livereload
 ```
 
-This will build the site and serve it locally at `http://localhost:4000/qmgold-landing-page`.
+This will build the site and serve it locally at `http://localhost:4000`.
 
 ## Usage
 
